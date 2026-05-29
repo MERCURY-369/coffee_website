@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#f5f1ea] flex flex-col items-center justify-center text-center p-10">
       
       <h1 className="text-5xl font-bold mb-4">
-        Your Coffee Brand
+        Gram Coffee
       </h1>
 
       <p className="text-lg max-w-xl mb-6">
